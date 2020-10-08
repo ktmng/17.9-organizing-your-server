@@ -1,0 +1,21 @@
+{"message":"Bookmark with the id id cannot be found.","level":"error"}
+{"message":"Bookmark with the id 1 cannot be found.","level":"error"}
+{"message":"Bookmark with the id c02ff956-363c-4ee5-a34b-ff783beb9f94 cannot be found.","level":"error"}
+{"message":"Bookmark with the id c02ff956-363c-4ee5-a34b-ff783beb9f94 cannot be found.","level":"error"}
+{"message":"Bookmark with the id 05da01d6-b418-437f-9002-27f64d6bc7b9 cannot be found.","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"rating is Required","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"Bookmark with id 05e36ad1-9d8d-46cc-8b92-83e28a621f91 created","level":"info"}
+{"message":"bookmark with id 1 cannot be found","level":"error"}
+{"message":"bookmark with id 05e36ad1-9d8d-46cc-8b92-83e28a621f91 cannot be found","level":"error"}
+{"message":"bookmark with id 05e36ad1-9d8d-46cc-8b92-83e28a621f91 cannot be found","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"bookmark with id 01777bd8-3e14-4d85-9f56-b5a50dad34ce created","level":"info"}
+{"message":"bookmark with id 9ba705ce-3232-4c92-b61c-caf352003739 created","level":"info"}
+{"message":"bookmark with id 91b543d6-3fc2-4033-8a42-9190dd4b25c8 created","level":"info"}
+{"message":"bookmark with id 91b543d6-3fc2-4033-8a42-9190dd4b25c8 deleted","level":"info"}
+{"message":"bookmark with the id 91b543d6-3fc2-4033-8a42-9190dd4b25c8 cannot be found","level":"error"}
