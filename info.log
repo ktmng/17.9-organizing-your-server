@@ -19,3 +19,4 @@
 {"message":"bookmark with id 91b543d6-3fc2-4033-8a42-9190dd4b25c8 created","level":"info"}
 {"message":"bookmark with id 91b543d6-3fc2-4033-8a42-9190dd4b25c8 deleted","level":"info"}
 {"message":"bookmark with the id 91b543d6-3fc2-4033-8a42-9190dd4b25c8 cannot be found","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/","level":"error"}
